@@ -1,0 +1,44 @@
+.venv/
+venv/
+env/
+
+# Python cache/build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Environment and secrets
+.env
+.env.*
+
+# Logs and runtime files
+*.log
+*.pid
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML artifacts and local model outputs
+mlruns/
+/models/
+*.pkl
+*.onnx
+
+# Optional generated data folders
+data/processed/
+data/interim/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/

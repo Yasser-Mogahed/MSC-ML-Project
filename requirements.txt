@@ -1,0 +1,15 @@
+pandas
+matplotlib
+seaborn
+numpy
+scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+optuna
+statsmodels
+mlflow
+streamlit
+plotly
+pydantic>=2.0,<3.0
+pydantic-settings>=2.0,<3.0
