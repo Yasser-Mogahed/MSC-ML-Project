@@ -323,11 +323,11 @@ Categorical Features  →  OneHotEncoder ┘
 
 | Metric | Score |
 |--------|-------|
-| **Accuracy** | — |
-| **ROC-AUC** | — |
-| **Precision** | — |
-| **Recall** | — |
-| **F1 Score** | — |
+| **Accuracy** | 93.42% |
+| **ROC-AUC** | 95.38% |
+| **Precision** | 89.69% |
+| **Recall** | 99.60% |
+| **F1 Score** | 94.38% |
 
 *Fill in your actual evaluation metrics from `03_model_training.ipynb`*
 
