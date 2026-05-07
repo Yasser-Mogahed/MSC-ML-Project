@@ -228,7 +228,7 @@ pip install -r requirements.txt
 streamlit run apps/streamlit/ui.py
 ```
 
-> The app will open automatically at **http://localhost:8501**
+
 
 ---
 
